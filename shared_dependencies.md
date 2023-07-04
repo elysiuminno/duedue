@@ -1,0 +1,1 @@
+As the user's prompt doesn't specify any files to be generated, there are no shared dependencies, exported variables, data schemas, id names of DOM elements, message names, or function names to be identified.
